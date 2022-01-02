@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://github.com/AlexanderC04/single-price-grid.git)
 - Live Site URL: ()
 
 ## My process
@@ -42,7 +42,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
--Flexbox
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
